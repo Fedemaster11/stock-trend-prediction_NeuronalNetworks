@@ -25,3 +25,19 @@ Clone the repository:
 ```bash
 git clone https://github.com/YOUR-USERNAME/stock-trend-prediction_NeuronalNetworks.git
 cd stock-trend-prediction_NeuronalNetworks
+
+## 📂 Project Structure
+stock-trend-prediction_NeuronalNetworks/
+│── README.md
+│── requirements.txt
+│── test_torch.py        # Sanity check for PyTorch
+│── data/                # Datasets
+│── notebooks/           # Jupyter notebooks
+│── src/                 # Source code
+│   │── data_loader.py
+│   │── models.py
+│   │── train.py
+│   │── evaluate.py
+│── models/              # Saved models
+│── results/             # Plots, metrics, reports
+
