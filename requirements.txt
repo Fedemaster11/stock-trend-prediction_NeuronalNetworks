@@ -1,7 +1,29 @@
+# --- Core data handling ---
 numpy
 pandas
+
+# --- Visualization ---
 matplotlib
+seaborn           # gráficos estadísticos más bonitos
+plotly            # opcional, gráficos interactivos
+
+# --- Machine Learning / Deep Learning ---
 scikit-learn
 torch
-optuna
+torchvision       # por si usas modelos preentrenados o CNNs visuales
+torchaudio        # no crítico, pero útil si instalas torch completo
+optuna            # optimización de hiperparámetros
+
+# --- Finance data ---
 yfinance
+
+# --- Sentiment / NLP ---
+tqdm              # barras de progreso
+vaderSentiment
+nltk              # procesamiento básico de texto
+transformers      # HuggingFace, si quieres usar FinBERT u otros modelos NLP
+
+# --- Utilities ---
+jupyter           # notebooks
+notebook
+ipykernel
