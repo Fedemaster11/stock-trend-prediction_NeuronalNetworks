@@ -200,6 +200,5 @@ Macias Orozco, F. D. (2025). Stock Trend Prediction with Neural Networks (Neuron
 ⸻
 
 
-MIT or another license of your choice.
 
 ---
