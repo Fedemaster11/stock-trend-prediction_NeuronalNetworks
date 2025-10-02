@@ -1,0 +1,43 @@
+{
+  "final_metrics": {
+    "train": {
+      "loss": 0.4558458993068108,
+      "acc": 0.6462006079027356,
+      "precision": 0.7418111753371869,
+      "recall": 0.7103321033210332,
+      "f1": 0.7257304429783223,
+      "auc": 0.6557527741052812
+    },
+    "val": {
+      "loss": 0.4836239367723465,
+      "acc": 0.2833333333333333,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "auc": 0.6633891928864569
+    },
+    "test": {
+      "loss": 0.5259085893630981,
+      "acc": 0.44368600682593856,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "auc": 0.44436054742803216
+    }
+  },
+  "args": {
+    "npz": ".\\data\\processed\\seq_MSFT_h10_L60_MB.npz",
+    "out_dir": "runs\\cnn1d_20250929_152847",
+    "epochs": 60,
+    "batch": 128,
+    "lr": 0.0002,
+    "weight_decay": 0.0001,
+    "channels": 32,
+    "kernel": 5,
+    "dropout": 0.5,
+    "fc_hidden": 64,
+    "no_class_weight": false,
+    "pos_weight": null,
+    "device": "auto"
+  }
+}

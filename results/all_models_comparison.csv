@@ -1,0 +1,79 @@
+family,model,ticker,horizon,seq_len,source,best_threshold,val_f1,val_precision,val_recall,val_auc,test_f1,test_precision,test_recall,test_auc,feature_set,run_dir
+deep,lstm,,,,final,,0.6188034188034188,0.5300146412884333,0.7433264887063655,0.5307373871693787,0.2893081761006289,0.5528846153846154,0.19591141396933562,0.5058266328160733,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\lstm_20250924_225426
+deep,lstm,,,,final,,0.5895316804407713,0.5701598579040853,0.6102661596958175,0.48170510346408857,0.22685788787483702,0.5272727272727272,0.14451827242524917,0.500479364043702,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\lstm_20250924_230313
+deep,lstm,,,,final,,0.5503875968992248,0.5991561181434599,0.5089605734767025,0.5084195115263334,0.257985257985258,0.6140350877192983,0.16329704510108864,0.5520655768878143,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\lstm_20250924_230627
+deep,lstm,,,,final,,0.3712121212121212,0.8909090909090909,0.23444976076555024,0.5698129621574597,0.0,0.0,0.0,0.5255389221556886,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\lstm_20250924_232516
+deep,lstm,,,,final,,0.12322274881516587,0.8666666666666667,0.0663265306122449,0.5652687904430065,0.0,0.0,0.0,0.5173745173745175,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\lstm_20250925_220144
+deep,lstm,,,,final,,0.8270042194092827,0.7050359712230215,1.0,0.4725609756097561,0.7186311787072244,0.5608308605341247,1.0,0.488917488917489,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\lstm_20250925_221911
+deep,lstm,,,,final,,0.6599326599326599,0.784,0.5697674418604651,0.5931087551299589,0.5434173669467787,0.5,0.5950920245398773,0.3763095799905616,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\lstm_20250927_131824
+deep,lstm,,,,final,,0.6599326599326599,0.784,0.5697674418604651,0.5931087551299589,0.5434173669467787,0.5,0.5950920245398773,0.3763095799905616,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\lstm_20250927_132210
+deep,lstm,,,,final,,0.6599326599326599,0.784,0.5697674418604651,0.5931087551299589,0.5434173669467787,0.5,0.5950920245398773,0.3763095799905616,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\lstm_20250927_133700
+deep,lstm,,,,final,,0.0,0.0,0.0,0.6480848153214774,0.0,0.0,0.0,0.4648890986314299,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\lstm_20250927_221005
+deep,lstm,,,,final,,0.6524822695035462,0.6715328467153284,0.6344827586206897,0.6786324786324787,0.4876325088339223,0.6571428571428571,0.38764044943820225,0.6155470555422743,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\lstm_20250928_120839
+deep,lstm,,,,sweep,,0.781491002570694,0.6440677966101694,0.9934640522875817,0.5161913250148544,0.7179487179487181,0.6285714285714286,0.8369565217391305,0.49629446640316205,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\lstm_20250928_134239
+deep,bilstm,,,,final,,0.5650557620817844,0.7835051546391752,0.4418604651162791,0.5976402188782489,0.023529411764705882,0.2857142857142857,0.012269938650306749,0.40500235960358666,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\bilstm_20250930_161517
+deep,bilstm,,,,final,,0.7267080745341615,0.6610169491525424,0.8068965517241379,0.7622163277335691,0.60790273556231,0.6622516556291391,0.5617977528089888,0.6057853215395649,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\bilstm_20250930_161555
+deep,bilstm,,,,final,,0.6976744186046512,0.6282722513089005,0.7843137254901961,0.48447712418300654,0.26229508196721313,0.5333333333333333,0.17391304347826086,0.540909090909091,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\bilstm_20250930_161619
+deep,cnn1d,,,,final,,0.0,0.0,0.0,0.6061046511627907,0.0,0.0,0.0,0.39386503067484663,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\cnn1d_20250927_223506
+deep,cnn1d,,,,final,,0.2564102564102564,0.5,0.1724137931034483,0.5497200117889773,0.0,0.0,0.0,0.5803649693202646,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\cnn1d_20250929_143634
+deep,cnn1d,,,,final,,0.27058823529411763,0.92,0.15862068965517243,0.6039787798408488,0.11518324607329843,0.8461538461538461,0.06179775280898876,0.6077775121523628,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\cnn1d_20250929_143828
+deep,cnn1d,,,,final,,0.6775067750677507,0.5580357142857143,0.8620689655172413,0.6182139699381078,0.5559105431309904,0.6444444444444445,0.4887640449438202,0.614032990676548,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\cnn1d_20250929_150135
+deep,cnn1d,,,,final,,0.5289256198347108,0.7191011235955056,0.41830065359477125,0.6056149732620321,0.047619047619047616,0.19230769230769232,0.02717391304347826,0.3292490118577075,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\cnn1d_20250929_151441
+deep,cnn1d,,,,final,,0.0,0.0,0.0,0.5592510259917921,0.0,0.0,0.0,0.42137800849457285,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\cnn1d_20250929_152104
+deep,cnn1d,,,,final,,0.0,0.0,0.0,0.5891757865937072,0.0,0.0,0.0,0.4247286455875413,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\cnn1d_20250929_152600
+deep,cnn1d,,,,final,,0.0,0.0,0.0,0.6633891928864569,0.0,0.0,0.0,0.44436054742803216,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\cnn1d_20250929_152847
+deep,cnn1d,GOOGL,10.0,60.0,sweep,,0.7936507936507936,0.6666666666666666,0.9803921568627451,0.5456030897207368,0.7621052631578947,0.6219931271477663,0.9836956521739131,0.4879940711462451,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\cnn1d_GOOGL_h10_L60_MB
+deep,cnn1d,MSFT,10.0,60.0,sweep,,0.8349514563106796,0.7166666666666667,1.0,0.4984610123119015,0.7149122807017543,0.5563139931740614,1.0,0.5178857951864086,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\cnn1d_MSFT_h10_L60_MB
+deep,cnn1d,TSLA,10.0,60.0,sweep,,0.7125307125307125,0.5534351145038168,1.0,0.5513704686118479,0.716297786720322,0.5579937304075235,1.0,0.6144712726113635,,C:\Users\feder\stock-trend-prediction_NeuronalNetworks\runs\cnn1d_TSLA_h10_L60_MB
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price-only,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price + Sentiment,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price-only,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price + Sentiment,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price-only,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price + Sentiment,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price-only,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price + Sentiment,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price-only,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price + Sentiment,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price-only,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price + Sentiment,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price-only,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price + Sentiment,
+baseline,LogReg,TSLA,,,cv_or_holdout,,,,,,,,,,Price-only,
+baseline,LogReg,TSLA,,,cv_or_holdout,,,,,,,,,,Price + Sentiment,
+baseline,LogReg,GOOGL,,,cv_or_holdout,,,,,,,,,,Price-only,
+baseline,LogReg,GOOGL,,,cv_or_holdout,,,,,,,,,,Price + Sentiment,
+baseline,LogReg,TSLA,,,cv_or_holdout,,,,,,,,,,Price-only,
+baseline,LogReg,TSLA,,,cv_or_holdout,,,,,,,,,,Price + Sentiment,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price-only,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price + Sentiment,
+baseline,LogReg,TSLA,,,cv_or_holdout,,,,,,,,,,Price-only,
+baseline,LogReg,TSLA,,,cv_or_holdout,,,,,,,,,,Price + Sentiment,
+baseline,LogReg,GOOGL,,,cv_or_holdout,,,,,,,,,,Price-only,
+baseline,LogReg,GOOGL,,,cv_or_holdout,,,,,,,,,,Price + Sentiment,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price-only,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price + Sentiment,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price-only,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price + Sentiment,
+baseline,LogReg,TSLA,,,cv_or_holdout,,,,,,,,,,Price-only,
+baseline,LogReg,TSLA,,,cv_or_holdout,,,,,,,,,,Price + Sentiment,
+baseline,LogReg,GOOGL,,,cv_or_holdout,,,,,,,,,,Price-only,
+baseline,LogReg,GOOGL,,,cv_or_holdout,,,,,,,,,,Price + Sentiment,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price-only,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price + Sentiment,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price-only,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price + Sentiment,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price-only,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price + Sentiment,
+baseline,RandomForest,MSFT,,,cv_or_holdout,,,,,,,,,,Price-only,
+baseline,RandomForest,MSFT,,,cv_or_holdout,,,,,,,,,,Price + Sentiment,
+baseline,RandomForest,MSFT,,,cv_or_holdout,,,,,,,,,,Price-only (post2021-09-01),
+baseline,RandomForest,MSFT,,,cv_or_holdout,,,,,,,,,,Price + Sentiment (post2021-09-01),
+baseline,RandomForest,TSLA,,,cv_or_holdout,,,,,,,,,,Price-only (post2021-09-01),
+baseline,RandomForest,TSLA,,,cv_or_holdout,,,,,,,,,,Price + Sentiment (post2021-09-01),
+baseline,RandomForest,GOOGL,,,cv_or_holdout,,,,,,,,,,Price-only (post2021-09-01),
+baseline,RandomForest,GOOGL,,,cv_or_holdout,,,,,,,,,,Price + Sentiment (post2021-09-01),
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price-only (post2021-09-01),
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price + Sentiment (post2021-09-01),
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price-only,
+baseline,LogReg,MSFT,,,cv_or_holdout,,,,,,,,,,Price + Sentiment,

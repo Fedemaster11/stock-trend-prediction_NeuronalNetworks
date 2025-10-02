@@ -1,0 +1,4 @@
+﻿ticker,arch,horizon,seq_len,metric_set,F1,precision,recall,threshold,run_dir
+GOOGL,LSTM,10,60,TEST,0.718,0.629,0.837,0.395,runs\lstm_YYYYMMDD_HHMMSS
+MSFT,LSTM,10,60,TEST,0.715,0.556,1.000,0.050,runs\lstm_YYYYMMDD_HHMMSS
+TSLA,LSTM,10,60,TEST,0.585,0.610,0.562,0.435,runs\lstm_YYYYMMDD_HHMMSS

@@ -50,6 +50,6 @@ for t, g in df.groupby("Ticker"):
     out = OUTDIR / f"{safe}_1d.csv"
     g.sort_values("Date").to_csv(out, index=False)
     count += 1
-    print(f"✅ Escribí {len(g)} filas -> {out}")
+    print(f"Escribí {len(g)} filas -> {out}")
 
-print(f"✅ Listo: {count} archivo(s) creados en {OUTDIR}")
+print(f" Listo: {count} archivo(s) creados en {OUTDIR}")

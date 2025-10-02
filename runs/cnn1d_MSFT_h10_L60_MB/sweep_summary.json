@@ -1,0 +1,26 @@
+{
+  "model_family": "cnn1d",
+  "run_dir": ".\\runs\\cnn1d_MSFT_h10_L60_MB",
+  "npz": "data\\processed\\seq_MSFT_h10_L60_MB.npz",
+  "npz_basename": "seq_MSFT_h10_L60_MB.npz",
+  "input_dim": 25,
+  "seq_len": 60,
+  "metric_optimized": "f1",
+  "tmin": 0.05,
+  "tmax": 0.95,
+  "nsteps": 181,
+  "precision_min": 0.0,
+  "val": {
+    "auc": 0.4984610123119015,
+    "best_threshold": 0.05,
+    "precision": 0.7166666666666667,
+    "recall": 1.0,
+    "f1": 0.8349514563106796
+  },
+  "test": {
+    "auc": 0.5178857951864086,
+    "precision": 0.5563139931740614,
+    "recall": 1.0,
+    "f1": 0.7149122807017543
+  }
+}

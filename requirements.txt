@@ -4,14 +4,14 @@ pandas
 
 # --- Visualization ---
 matplotlib
-seaborn           # gráficos estadísticos más bonitos
-plotly            # opcional, gráficos interactivos
+seaborn           # 
+plotly            # 
 
 # --- Machine Learning / Deep Learning ---
 scikit-learn
 torch
-torchvision       # por si usas modelos preentrenados o CNNs visuales
-torchaudio        # no crítico, pero útil si instalas torch completo
+torchvision       # 
+torchaudio        # 
 optuna            # optimización de hiperparámetros
 
 # --- Finance data ---
@@ -21,7 +21,7 @@ yfinance
 tqdm              # barras de progreso
 vaderSentiment
 nltk              # procesamiento básico de texto
-transformers      # HuggingFace, si quieres usar FinBERT u otros modelos NLP
+transformers      # HuggingFace
 
 # --- Utilities ---
 jupyter           # notebooks
