@@ -197,6 +197,8 @@ If you reference this work:
 
 Macias Orozco, F. D. (2025). Stock Trend Prediction with Neural Networks (Neuronal Networks, Summer Semester 2025, Heidelberg University).
 
+NOTE: ChatGpt and Gemini were used as support for  debugging and commenting the scritps
+
 ⸻
 
 
